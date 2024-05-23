@@ -1,6 +1,8 @@
-# Food-Frenzy
-Minor Project written in C programming
+Food Frenzy is a food ordering platform developed entirely in C. This application allows users to browse through a menu, place orders, and manage their food orders within the application.
 
-The prog. is written in c programming using c blocks
+Features
+# Menu Browsing: View available food items.
+# Order Placement: Add items to the cart and place orders.
+# Order Management: View and manage current orders.
 
-adminmenu password: admin123
+This project is entirely coded in C, and it is my Minor Project - 1. Since the project is in C, it does not offer internet access. Thank you!
